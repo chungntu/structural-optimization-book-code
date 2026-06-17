@@ -4,8 +4,13 @@ This repository contains the source code examples used in the book **Co hoc ket 
 
 ## Structure
 
+- `book/`: compiled PDF version of the book.
 - `examples/`: code examples referenced directly from the book, grouped by chapter/example number.
 - `legacy-octave/`: additional Octave/MATLAB scripts kept from the supporting material.
+
+## Book PDF
+
+- [co-hoc-ket-cau-cong-trinh-xay-dung-toi-uu-ket-cau.pdf](book/co-hoc-ket-cau-cong-trinh-xay-dung-toi-uu-ket-cau.pdf)
 
 ## Languages
 
