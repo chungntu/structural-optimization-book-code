@@ -1,0 +1,19 @@
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# MATLAB / Octave generated files
+*.asv
+*.m~
+octave-workspace
+
+# Python generated files
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Editor files
+.vscode/
+.idea/

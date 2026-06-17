@@ -1,0 +1,11 @@
+Khối lượng tối ưu: 495.25 kg
+
+Kích thước mặt cắt tối ưu (cm):
+  Đoạn 1: r_outer = 29.54, r_inner = 27.52
+  Đoạn 2: r_outer = 27.72, r_inner = 25.95
+  Đoạn 3: r_outer = 26.86, r_inner = 25.54
+  Đoạn 4: r_outer = 26.56, r_inner = 25.77
+  Đoạn 5: r_outer = 25.91, r_inner = 25.65
+
+Chuyển vị đầu dầm: 0.08 cm
+Ứng suất lớn nhất: 269.99 MPa
