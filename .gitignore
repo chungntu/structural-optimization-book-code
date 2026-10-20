@@ -17,3 +17,7 @@ venv/
 # Editor files
 .vscode/
 .idea/
+
+# Local Windows folder customizations and generated book PDF.
+folder.ico
+*.pdf

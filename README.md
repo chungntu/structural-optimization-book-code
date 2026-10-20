@@ -4,12 +4,8 @@ This repository contains the source code examples used in the book **Tối ưu k
 
 ## Structure
 
-- `book/`: compiled PDF version of the book.
+
 - `examples/`: full code package used for the book, grouped by chapter/example number. This includes scripts, generated figures, structural model files, and truss model support files.
-
-## Book PDF
-
-- [toi-uu-ket-cau-ly-thuyet-va-ung-dung-trong-cong-trinh-cau.pdf](book/toi-uu-ket-cau-ly-thuyet-va-ung-dung-trong-cong-trinh-cau.pdf)
 
 ## Chapter 9 – bridge applications
 
@@ -32,6 +28,8 @@ The code is organized to match the numbering used in the book. Some scripts may 
 
 Kho mã nguồn này gồm các ví dụ code được dùng trong sách **Tối ưu kết cấu – Lý thuyết và ứng dụng trong công trình cầu** (GS.TS. Bùi Tiến Thành, ThS. Trương Thành Chung – Trường Đại học Giao thông Vận tải).
 
-- `book/`: bản PDF của sách.
+
 - `examples/`: bộ code đầy đủ dùng cho sách, theo đúng số thứ tự trong sách; bao gồm script, hình kết quả, file mô hình kết cấu và các file hỗ trợ mô hình giàn.
 - Chương 9 (ứng dụng trong công trình cầu): Code 9.1 – tối ưu dầm thép chữ I liên hợp theo TCVN 11823:2017; Code 9.2 – tối ưu bộ giảm chấn khối lượng cho cầu đường sắt cao tốc dưới các đoàn tàu HSLM-A; Code 9.3 – hiệu chỉnh mô hình cầu giàn thép đường sắt Nam Ô từ dữ liệu đo.
+
+The book PDF and other generated or reference PDFs are kept in the parent project's local archives and are not distributed from this code repository.
